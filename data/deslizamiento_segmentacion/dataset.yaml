@@ -1,0 +1,5 @@
+names:
+  0: deslizamiento
+path: /xxx/xxx/deslizamiento-yolo/data/deslizamiento_segmentacion
+train: train.txt
+val: val.txt
