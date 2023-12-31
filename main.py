@@ -15,4 +15,4 @@ res_train = model.train(
     imgsz=IM_SIZE,
     batch=BATCH_SIZE,
 )
-res_val = model.val()
+# res_val = model.val()
