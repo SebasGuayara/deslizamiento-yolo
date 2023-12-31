@@ -1,0 +1,5 @@
+names:
+  0: landslide
+path: C:\Users\Sebastián Guayara\OneDrive\Escritorio\deslizamiento-yolo\data\deslizamiento_deteccion
+train: train.txt
+val: val.txt
