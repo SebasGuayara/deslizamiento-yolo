@@ -1,5 +1,0 @@
-names:
-  0: landslide
-path: /pscratch/sd/j/jarh1992/deslizamiento-yolo/data/deslizamiento_deteccion
-train: train.txt
-val: val.txt

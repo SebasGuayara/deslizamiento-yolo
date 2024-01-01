@@ -10,6 +10,6 @@
 #SBATCH --gpu-bind=none
 
 export SLURM_CPU_BIND="cores"
-module load python
+module load python/3.9
 source venv/bin/activate
 srun python main.py
